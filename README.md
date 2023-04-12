@@ -1,4 +1,4 @@
-# Hi, I'm Chris
+# Hi, I'm Chris 👋🏼👨🏽‍💻
 ![1679908575236](https://user-images.githubusercontent.com/26408789/231440356-94087591-c591-4c5e-8360-a61f6c8e15d5.jpeg)
 
 # 🏄🏽‍♂️ About Me
