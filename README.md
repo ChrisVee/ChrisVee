@@ -10,7 +10,6 @@ As a self-starter with a background in sports, I'm especially passionate about h
 • ⚡️ Fun fact: I'm the rare breed who loves building AND selling 
 
 # ⚒️ My Skill Set
-[<img align="left" width="40px" src="![image](https://user-images.githubusercontent.com/26408789/231445840-f8cbb8b8-e531-4040-906c-31ab06ac048e.png)
-"/>][JS]
+[<img align="left" width="40px" src="https://img.icons8.com/color/48/null/javascript--v1.png"/>][JS]
 
 # 🦜 Let's Connect
