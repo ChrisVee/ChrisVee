@@ -6,5 +6,5 @@ I'm a Frontend Developer from Los Angeles, traveling around the world. My backgr
 
 As a self-starter with a background in sports, I'm especially passionate about healthy, intentional living while making a difference in the tech industry. I've got a sharp eye for product and design. I love communities, productivity, and automations which is why I find projects around composability and React components to be one of my favourite parts of the job. So let's build something epic together and bring the internet closer 🚀
 
-• 🌱 I’m currently learning React.js
+• 🌱 I’m currently learning React.js <br>
 • ⚡️ Fun fact: I'm the rare breed who loves building AND selling 
