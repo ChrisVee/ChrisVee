@@ -14,4 +14,5 @@ As a self-starter with a background in sports, I'm especially passionate about h
 <img align="left" width="40px" src="https://img.icons8.com/officel/160/null/react.png"/>
 <img align="left" width="40px" src="https://img.icons8.com/color/144/null/html-5--v2.png"/>
 
+<br>
 # 🦜 Let's Connect
