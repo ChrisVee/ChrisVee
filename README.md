@@ -11,6 +11,6 @@ As a self-starter with a background in sports, I'm especially passionate about h
 
 # ⚒️ My Skill Set
 [<img align="left" width="40px" src="https://img.icons8.com/color/48/null/javascript--v1.png"/>]
-[<img align="left" width="40px" src="https://img.icons8.com/officel/16/null/react.png"/>]
+[<img align="left" width="40px" src="[https://img.icons8.com/officel/16/null/react.png](https://img.icons8.com/officel/160/null/react.png)"/>]
 
 # 🦜 Let's Connect
