@@ -8,3 +8,7 @@ As a self-starter with a background in sports, I'm especially passionate about h
 
 • 🌱 I’m currently learning React.js <br>
 • ⚡️ Fun fact: I'm the rare breed who loves building AND selling 
+
+# ⚒️ My Skill Set
+javascript logo react logo html5 logo css3 logo bootstrap logo figma logo git logo materialui logo tailwindcss logo vscode logo
+🦜 Let's connect
