@@ -10,5 +10,6 @@ As a self-starter with a background in sports, I'm especially passionate about h
 • ⚡️ Fun fact: I'm the rare breed who loves building AND selling 
 
 # ⚒️ My Skill Set
-javascript logo react logo html5 logo css3 logo bootstrap logo figma logo git logo materialui logo tailwindcss logo vscode logo
-🦜 Let's connect
+![tools](https://user-images.githubusercontent.com/76062682/139349833-6d663bda-9e7c-4fe4-bc2f-5386eb2edab8.png)
+
+# 🦜 Let's Connect
